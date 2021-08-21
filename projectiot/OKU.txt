@@ -1,0 +1,5 @@
+Bu proje Raspberry Pi 3B+ üzerinde GPIO14 pinine bağlı DHT11 sıcaklık ve nem sensörü ile Python 2 de çalıştırılmıştır.
+
+Projedeki veritabanı kurulumunun tamamlanması için ilk önce veritabanikurma.py Python 2 de çalıştırılmalıdır.
+Projeyi başlatabilmek için giris.py Python 2 de çalıştırılmalıdır.
+ 
